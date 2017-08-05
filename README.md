@@ -2,7 +2,7 @@
 
 By <a href="http://jrliv.com/about/" target="_blank">Jae Logan</a>
 
-http://PUTAZURELINKHERE.azurewebsites.net/
+http://http://futurevalue.azurewebsites.net/
 
 ## Description
 
@@ -12,7 +12,7 @@ The application calculates and displays the future value of a 401K account based
 
 ## Screenshot
 
-<img src="ADDLINKHERE" alt="Screenshot of the future value web application" />
+<img src="https://res.cloudinary.com/jrliv/image/upload/v1501905641/screenshot_hhy9ph.jpg" alt="Screenshot of the future value web application" />
 
 ##	Usage
 
