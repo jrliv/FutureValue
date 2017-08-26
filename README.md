@@ -12,7 +12,7 @@ The application calculates and displays the future value of a 401K account based
 
 ## Screenshot
 
-<img src="https://res.cloudinary.com/jrliv/image/upload/v1501905641/screenshot_hhy9ph.jpg" alt="Screenshot of the future value web application" />
+<img src="https://res.cloudinary.com/jrliv/image/upload/v1503752268/screenshot_ahsobn.jpg" alt="Screenshot of the future value web application" />
 
 ##	Usage
 
